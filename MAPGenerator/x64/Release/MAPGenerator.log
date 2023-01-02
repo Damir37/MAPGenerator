@@ -1,0 +1,12 @@
+﻿  DataUtils.cpp
+E:\dev\MAPGenerator\MAPGenerator\DataUtils.cpp(15,58): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  FileUtils.cpp
+  main.cpp
+  PEUtils.cpp
+E:\dev\MAPGenerator\MAPGenerator\PEUtils.cpp(33,19): warning C4244: инициализация: преобразование "ULONGLONG" в "ULONG", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+E:\dev\MAPGenerator\MAPGenerator\PEUtils.cpp(80): warning C4715: GetSections: значение возвращается не при всех путях выполнения
+  All 280 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  MAPGenerator.vcxproj -> E:\dev\MAPGenerator\x64\Release\MAPGenerator.exe
